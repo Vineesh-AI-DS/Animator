@@ -67,9 +67,10 @@ public class IdletoCrouch : MonoBehaviour
 }
 ```
 ## Output:
-Idle Position	Crouch/Moving Position
-image![image](https://github.com/Vineesh-AI-DS/Animator/assets/93427254/86f3961b-9f75-4181-8a51-f8eb9dcebb24)
-	image![image](https://github.com/Vineesh-AI-DS/Animator/assets/93427254/3388bac7-243a-4001-b8a1-5526b0fb0cb0)
+### Idle Position
+![image](https://github.com/Vineesh-AI-DS/Animator/assets/93427254/86f3961b-9f75-4181-8a51-f8eb9dcebb24)
+### Crouch/Moving Position
+![image](https://github.com/Vineesh-AI-DS/Animator/assets/93427254/3388bac7-243a-4001-b8a1-5526b0fb0cb0)
 
 
 
